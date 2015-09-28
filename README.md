@@ -1,2 +1,2 @@
 # offensive-bot
-Offencive Telegram Bot
+Offensive Telegram Bot
